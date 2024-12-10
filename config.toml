@@ -1,0 +1,17 @@
+
+base_url = "http://127.0.0.1:1111/"
+title = "My Zola Website"
+description = "A test website built with Zola."
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+
+[extra]
+theme = "auto"
+socials = [
+  # Configure socials here
+]
+menu = [
+  # Configure menu bar here
+]
+
+latex = true
