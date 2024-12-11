@@ -1,5 +1,5 @@
 +++
-title = "Projects 📐"
+title = "Projects"
 date = 2019-10-05
 draft = false
 +++
@@ -16,8 +16,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissi
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissim nulla et ornare. Vestibulum porta, risus eu ultrices condimentum, quam ante mattis massa, eget laoreet neque nisl ullamcorper nibh.
 
 
-### rvc 🚧
-Etiam vulputate nibh in magna feugiat viverra. Donec ultricies sagittis justo vel facilisis. Nulla sollicitudin felis eu tortor consectetur, ac sodales odio faucibus. Vivamus id ultrices orci, ut luctus dolor. Sed sem nibh, semper in posuere eget, dictum eget dui. Praesent nunc dolor, lacinia at tortor eget, sollicitudin sagittis turpis.
+### rvc 📐
+Rhino version control loosely based on git. Currently only has very basic functionality. 
 
 {{ img(id="https://uploads-ssl.webflow.com/5ff0b3326e5782a256714165/638b6f3a3d8d2e6bad1cb03b_Random22.1.jpg", alt="xfx6800xt", class="textCenter") }}
 
