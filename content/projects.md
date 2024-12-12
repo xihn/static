@@ -6,14 +6,20 @@ draft = false
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissim nulla et ornare. Vestibulum porta, risus eu ultrices condimentum, quam ante mattis massa, eget laoreet neque nisl ullamcorper nibh.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissim nulla et ornare. Vestibulum porta, risus eu ultrices condimentum, quam ante mattis massa, eget laoreet neque nisl ullamcorper nibh.
 
-### HPC Stuffs 
+---
+
+### slurm-ratio
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissim nulla et ornare. Vestibulum porta, risus eu ultrices condimentum, quam ante mattis massa, eget laoreet neque nisl ullamcorper nibh.
 
-- #### slurm-ratio
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissim nulla et ornare. Vestibulum porta, risus eu ultrices condimentum, quam ante mattis massa, eget laoreet neque nisl ullamcorper nibh.
+### rsched
+A very experimental Rust based scheduler for use in HPC clusters. Extensible and declarative.
 
-- #### rsched
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissim nulla et ornare. Vestibulum porta, risus eu ultrices condimentum, quam ante mattis massa, eget laoreet neque nisl ullamcorper nibh.
+### vslurm
+Simple slurm VM instance for testing plugins, slurm configurations and more. Can easily be configured to simluate an existing cluster. VM's are created using ProxMox, then managed using NixOS. 
+    Includes tools for rebuilding slurm.
+
+### zero-to-hpc
+Documentation and guide based on my own experiences to help others understand, build, and use HPC. Split into a user facing guide for people working with HPC and a more backend infrastructure guide for sysadmins.
 
 
 ### rvc 📐

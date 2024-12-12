@@ -1,4 +1,5 @@
 +++
+title = "Miles Yeh (iy)"
 +++
 
 ## Miles Yeh (iy)
@@ -19,8 +20,6 @@ I try and keep my online presence to a minimum for various privacy reasons (AI, 
 > *"Useless blockquote"* 
 
 
-
-
 Discover additional content:
 
 - With Subitems
@@ -34,11 +33,12 @@ Discover additional content:
 - Email: milesy at berkeley dot edu
 - Email: [iy@berkeley.edu](mailto:iy@berkeley.edu)
 - Secure Email: [iy000@riseup.net](mailto:iy000@riseup.net)
-- Code Repositories: [xihn@GitHub](https://github.com/xihn), [iy000@gitlab](https://gitlab.com/iy000), [iy@sr.ht](https://meta.sr.ht/profile)
+- Code Repositories: [xihn@github](https://github.com/xihn), [iy000@gitlab](https://gitlab.com/iy000), [iy@sr.ht](https://meta.sr.ht/profile)
 
 Feel free to reach out, I prefer the **first** email listed.
 
+---
 
 #### Verification
 
-You can find my public key [here](/https://raw.githubusercontent.com/xihn/keys/refs/heads/main/publickey.asc/), and a signed verification of this site 
+You can find my public key [here](/https://raw.githubusercontent.com/xihn/keys/refs/heads/main/publickey.asc/), and signed verification of this site [here](https://raw.githubusercontent.com/xihn/static/refs/heads/main/static/siteownership.txt)
