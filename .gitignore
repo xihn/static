@@ -1,2 +1,4 @@
 /public
 /ignore
+
+*.tar.gz
