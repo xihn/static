@@ -1,13 +1,13 @@
 
 base_url = "http://127.0.0.1:1111/"
-title = "Miles"
-description = "A test website built with Zola."
+title = "Miles Yeh"
+description = "chill site"
 theme = "anemone"
 compile_sass = false
 minify_html = true
 generate_feeds = false
 default_language = "en"
-taxonomies = [{ name = "tags" }]
+
 
 [markdown]
 render_emoji = true
@@ -36,7 +36,7 @@ header_nav = [
   { url = "/", name_en = "/home/"},
   #{ url = "/about", name_en = "/about/"},
   { url = "/projects", name_en = "/projects/"},
-  { url = "/blog", name_en = "/blog/"}
+  { url = "/writings", name_en = "/writings/"}
 ]
 
 theme = "dark"
