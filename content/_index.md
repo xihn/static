@@ -41,4 +41,4 @@ Feel free to reach out, I prefer the **first** email listed.
 
 #### Verification
 
-You can find my public key [here](/https://raw.githubusercontent.com/xihn/keys/refs/heads/main/publickey.asc/), and signed verification of this site [here](https://raw.githubusercontent.com/xihn/static/refs/heads/main/static/siteownership.txt)
+You can find my public key [here](https://raw.githubusercontent.com/xihn/static/refs/heads/main/static/publickey.asc), and signed verification of this site [here](https://raw.githubusercontent.com/xihn/static/refs/heads/main/static/siteownership.txt)
