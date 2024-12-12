@@ -14,7 +14,7 @@ Im also a large supporter of privacy protections, anonymity, digital rights, rig
 
 I try and keep my online presence to a minimum for various privacy reasons (AI, webscraping, etc). I don't have much on this site, but feel free to check out some of my [projects](/projects/), [writings](/writings/), and [dotfiles](https://github.com/xihn). 
 
----
+
 <!-- 
 
 > *"Useless blockquote"* 
@@ -29,7 +29,7 @@ Discover additional content:
 
 --->
 
-#### Online Presence
+### Online Presence
 - Email: milesy at berkeley dot edu
 - Email: [iy@berkeley.edu](mailto:iy@berkeley.edu)
 - Secure Email: [iy000@riseup.net](mailto:iy000@riseup.net)
@@ -37,8 +37,8 @@ Discover additional content:
 
 Feel free to reach out, I prefer the **first** email listed.
 
----
 
-#### Verification
+
+### Verification
 
 You can find my public key [here](https://raw.githubusercontent.com/xihn/static/refs/heads/main/static/publickey.asc), and signed verification of this site [here](https://raw.githubusercontent.com/xihn/static/refs/heads/main/static/siteownership.txt)
